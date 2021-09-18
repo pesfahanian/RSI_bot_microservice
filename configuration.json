@@ -1,0 +1,11 @@
+{
+    "base": "sol",
+    "quote": "usdt",
+    "timeframe": "1m",
+    "qty": "0.2",
+    "RSI": {
+        "period": 14,
+        "oversold": 30,
+        "overbought": 70
+    }
+}
